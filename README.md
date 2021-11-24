@@ -6,9 +6,11 @@ A blackjack game i made for cs101 class.
 
 
 # Sample Game:
+![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222846.png)
 
-![Ek Açıklama 2020-07-26 191138](https://user-images.githubusercontent.com/62616668/88483976-f3ff3980-cf73-11ea-89ff-045d83f80658.png)
+![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222846.png)
 
+![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222846.png)
 just run cookieclicker.py and have fun :)
 
 click start to start clicking cookie, golden cookies, available upgrades and products.
