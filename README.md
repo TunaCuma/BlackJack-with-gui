@@ -1,20 +1,15 @@
 # BlackJack with gui
 A blackjack game i made for cs101 class.
 
-
-![alt text](https://imgur.com/a/q6CrsYs)
-
+The GUI code was written by https://github.com/uzaymacar but was adapted for this lab by E. Batuhan Kaynak and modified a little bit by me (i added choosing hit or stand on pop ups instead of choosing on logs).
 
 # Sample Game:
-![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222846.png)
 
 ![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222846.png)
+we can draw a card by clicking "Hit!".
 
-![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222846.png)
-just run cookieclicker.py and have fun :)
+![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222910.png)
+we can stop drawing cards if we think it is enough and make it dealers turn.
 
-click start to start clicking cookie, golden cookies, available upgrades and products.
-
-click stop to stop bot and play it normally.
-
-and when you get bored click x on the bot window to save progress and close program.
+![Ek Açıklama 2020-07-26 191138](https://github.com/TunaCuma/BlackJack-with-gui/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-24%20222930.png)
+we get pop ups like this when we win or lose.
